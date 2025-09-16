@@ -1,7 +1,5 @@
 # ACTA - Automated Credential Trust Authority
 
-<div align="center">
-
 ### *Revolutionizing credential verification through blockchain technology*
 
 [![Stellar Network](https://img.shields.io/badge/Stellar-Network-7B4BFF?style=for-the-badge&logo=stellar)](https://stellar.org)
@@ -14,58 +12,25 @@
 
 **ACTA** is a cutting-edge **decentralized credential management ecosystem** built on the Stellar blockchain. We enable secure, verifiable, and tamper-proof digital credentials that transform how organizations and individuals manage trust and verification.
 
-</div>
-
 ## **Our Mission**
 Democratize credential verification by creating a trustless, transparent, and globally accessible system where credentials can be issued, verified, and managed without intermediaries.
 
 ## **The Ecosystem**
 
-<table>
-<tr>
-<td width="33%" align="center">
+### **ACTA Web** - *Modern dApp Interface*
+Beautiful, responsive frontend built with Next.js and shadcn/ui featuring multi-wallet integration, real-time credential management, and glass morphism design.
 
-### **ACTA Web**
-*Modern dApp Interface*
+### **ACTA API** - *Robust Backend Service*
+High-performance API powering the ecosystem with RESTful architecture, Stellar blockchain integration, and secure authentication.
 
-Beautiful, responsive frontend built with Next.js and shadcn/ui
-- Multi-wallet integration
-- Real-time credential management
-- Glass morphism design
-
-</td>
-<td width="33%" align="center">
-
-### **ACTA API**
-*Robust Backend Service*
-
-High-performance API powering the ecosystem
-- RESTful architecture
-- Stellar blockchain integration
-- Secure authentication
-
-</td>
-<td width="33%" align="center">
-
-### **Smart Contracts**
-*Blockchain Infrastructure*
-
-Stellar-based smart contracts ensuring trust
-- Immutable credential storage
-- Cryptographic verification
-- Decentralized validation
-
-</td>
-</tr>
-</table>
+### **Smart Contracts** - *Blockchain Infrastructure*
+Stellar-based smart contracts ensuring trust through immutable credential storage, cryptographic verification, and decentralized validation.
 
 ## **Key Features**
 
 **Blockchain-Verified** • **Globally Accessible** • **Privacy-First** • **Lightning Fast** • **Beautiful UI/UX**
 
 ## **Built for Meridian Hackathon**
-
-<div align="center">
 
 *Showcasing the future of decentralized credential management*
 
@@ -74,5 +39,3 @@ Stellar-based smart contracts ensuring trust
 ---
 
 *Building trust, one credential at a time*
-
-</div>
