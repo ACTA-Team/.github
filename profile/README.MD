@@ -15,21 +15,6 @@
 ## **Our Mission**
 Democratize credential verification by creating a trustless, transparent, and globally accessible system where credentials can be issued, verified, and managed without intermediaries.
 
-## **The Ecosystem**
-
-### **ACTA Web** - *Modern dApp Interface*
-Beautiful, responsive frontend built with Next.js and shadcn/ui featuring multi-wallet integration, real-time credential management, and glass morphism design.
-
-### **ACTA API** - *Robust Backend Service*
-High-performance API powering the ecosystem with RESTful architecture, Stellar blockchain integration, and secure authentication.
-
-### **Smart Contracts** - *Blockchain Infrastructure*
-Stellar-based smart contracts ensuring trust through immutable credential storage, cryptographic verification, and decentralized validation.
-
-## **Key Features**
-
-**Blockchain-Verified** • **Globally Accessible** • **Privacy-First** • **Lightning Fast** • **Beautiful UI/UX**
-
 ## **Built for Meridian Hackathon**
 
 *Showcasing the future of decentralized credential management*
@@ -39,3 +24,4 @@ Stellar-based smart contracts ensuring trust through immutable credential storag
 ---
 
 *Building trust, one credential at a time*
+
