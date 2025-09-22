@@ -19,9 +19,10 @@ Democratize credential verification by creating a trustless, transparent, and gl
 
 *Showcasing the future of decentralized credential management*
 
-**[Try the dApp](https://acta-web.vercel.app)** • **[API Docs](https://acta.up.railway.app/docs)** • **[Get Support](https://github.com/orgs/JosueBrenes/discussions)**
+**[Try the dApp](https://dapp-acta.vercel.app)** • **[API Docs](https://acta.up.railway.app/docs)** • **[Get Support](https://github.com/orgs/JosueBrenes/discussions)**
 
 ---
 
 *Building trust, one credential at a time*
+
 
