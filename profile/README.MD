@@ -1,4 +1,4 @@
-# ACTA - Automated Credential Trust Authority
+# ACTA 
 
 ### *Revolutionizing credential verification through blockchain technology*
 
@@ -10,22 +10,30 @@
 
 ## **What is ACTA?**
 
-**ACTA** is a cutting-edge **decentralized credential management ecosystem** built on the Stellar blockchain. We enable secure, verifiable, and tamper-proof digital credentials that transform how organizations and individuals manage trust and verification.
+**ACTA** is a Verifiable Credentials API built on the Stellar network that enables startups, DAOs and companies to issue and verify trusted digital credentials. Our vision is to make trust in digital records as seamless and transparent as a blockchain transaction.  
 
-## **Our Mission**
-Democratize credential verification by creating a trustless, transparent, and globally accessible system where credentials can be issued, verified, and managed without intermediaries.
+The problem we address is the fragmentation and inefficiency of current credential systems, from universities validating diplomas to DAOs verifying member contributions. ACTA provides a simple API layer that abstracts the complexity of blockchain, allowing any platform to issue tamper-proof credentials anchored on Stellar’s public ledger.  
 
-## **Built for Meridian Hackathon**
+Technically, ACTA leverages Stellar smart contracts and off-chain verification logic to create, store, and validate verifiable credentials following the W3C standard. Each credential is hashed and anchored on-chain, while metadata and proofs remain accessible through our API endpoints.  
 
-*Showcasing the future of decentralized credential management*
+This hybrid approach ensures scalability, low cost, and interoperability with other identity frameworks. We are currently focused on integrations with educational institutions, companies and startups in LATAM, with the vision to expand globally and empower users to control and share their credentials securely.  
 
-**[Try the dApp](https://testnet.acta.build)** • **[API Docs](https://docs.acta.build)** • **[Get Support](https://github.com/orgs/JosueBrenes/discussions)**
+By combining open-source principles with Stellar’s trust and efficiency, ACTA aims to become the backbone for verifiable identity and credential infrastructure across the ecosystem.
 
 ---
 
-*Building trust, one credential at a time*
+## **Our Mission**
 
+**ACTA’s mission** is to build the infrastructure that enables the secure, transparent, and accessible issuance and verification of verifiable digital credentials — leveraging the Stellar network to ensure trust and traceability without exposing personal data.
 
+---
 
+## **Built for Meridian Hackathon**
 
+*Showcasing the future of decentralized credential management.*
 
+**[Meet us at](https://acta.build)** • **[Try the dApp](https://testnet.acta.build)** • **[API Docs](https://docs.acta.build)** • **[Get Support](https://github.com/orgs/JosueBrenes/discussions)**
+
+---
+
+*The new infrastructure for digital trust.*
