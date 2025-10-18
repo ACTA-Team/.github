@@ -32,8 +32,9 @@ By combining open-source principles with Stellar’s trust and efficiency, ACTA 
 
 *Showcasing the future of decentralized credential management.*
 
-**[Meet us at](https://acta.build)** • **[Try the dApp](https://testnet.acta.build)** • **[API Docs](https://docs.acta.build)** • **[Get Support](https://github.com/orgs/JosueBrenes/discussions)**
+**[Meet us at](https://acta.build)** • **[Try demo](https://demo.acta.build)** • **[API Docs](https://docs.acta.build)** • **[Get Support](https://github.com/orgs/JosueBrenes/discussions)**
 
 ---
 
 *The new infrastructure for digital trust.*
+
