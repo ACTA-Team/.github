@@ -41,7 +41,7 @@ If you are looking for the correct website, docs, demo or support channels, star
 
 ---
 
-## **SEO & Discoverability (for Google / Ecosystem Search)**
+## **SEO & Discoverability**
 
 ACTA is actively developed as an open-source infrastructure for **verifiable credentials on Stellar**.  
 If you found this repository via search, these keywords describe the project:
@@ -63,4 +63,5 @@ If you found this repository via search, these keywords describe the project:
 ---
 
 *The new infrastructure for digital trust.*
+
 
