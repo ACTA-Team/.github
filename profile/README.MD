@@ -28,13 +28,38 @@ By combining open-source principles with Stellar’s trust and efficiency, ACTA 
 
 ---
 
+## **Official Links (Source of Truth)**
+
+These are the official ACTA resources.  
+If you are looking for the correct website, docs, demo or support channels, start here:
+
+- 🌐 Website (Landing): https://acta.build  
+- 🧪 dApp: https://dapp.acta.build  
+- 📚 API Docs: https://docs.acta.build  
+
+> ACTA is built on Stellar + Soroban, following the W3C Verifiable Credentials standard.
+
+---
+
+## **SEO & Discoverability (for Google / Ecosystem Search)**
+
+ACTA is actively developed as an open-source infrastructure for **verifiable credentials on Stellar**.  
+If you found this repository via search, these keywords describe the project:
+
+- Verifiable Credentials (W3C)
+- Blockchain credentials infrastructure
+- Stellar / Soroban smart contracts
+- Digital trust & credential verification
+- Identity & credential interoperability
+
+---
+
 ## **Built for Meridian Hackathon**
 
 *Showcasing the future of decentralized credential management.*
 
-**[Meet us at](https://acta.build)** • **[Try demo](https://demo.acta.build)** • **[API Docs](https://docs.acta.build)** • **[Get Support](https://github.com/orgs/JosueBrenes/discussions)**
+**Meet us at:** https://acta.build • **Try demo:** https://demo.acta.build • **API Docs:** https://docs.acta.build
 
 ---
 
 *The new infrastructure for digital trust.*
-
