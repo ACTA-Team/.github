@@ -28,7 +28,7 @@ By combining open-source principles with Stellar’s trust and efficiency, ACTA 
 
 ---
 
-## **Official Links (Source of Truth)**
+## **Official Links**
 
 These are the official ACTA resources.  
 If you are looking for the correct website, docs, demo or support channels, start here:
@@ -63,3 +63,4 @@ If you found this repository via search, these keywords describe the project:
 ---
 
 *The new infrastructure for digital trust.*
+
