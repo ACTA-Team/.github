@@ -56,7 +56,7 @@ If you found this repository via search, these keywords describe the project:
 
 ---
 
-**Meet us at:** https://acta.build • **Try demo:** https://dapp.acta.build • **API Docs:** https://docs.acta.build
+**Meet us at:** https://acta.build • **Try dApp:** https://dapp.acta.build • **API Docs:** https://docs.acta.build
 
 ---
 
